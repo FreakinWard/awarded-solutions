@@ -1,7 +1,7 @@
 [![codecov](https://codecov.io/gh/FreakinWard/awarded-solutions/branch/main/graph/badge.svg?token=XL8EYC1YZP)](https://codecov.io/gh/FreakinWard/awarded-solutions)
 [![CodeFactor](https://www.codefactor.io/repository/github/freakinward/awarded-solutions/badge)](https://www.codefactor.io/repository/github/freakinward/awarded-solutions)
-[![Maintainability](https://api.codeclimate.com/v1/badges/25a53970d9a620abcaf8/maintainability)](https://codeclimate.com/github/FreakinWard/awarded-solutions/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/25a53970d9a620abcaf8/test_coverage)](https://codeclimate.com/github/FreakinWard/awarded-solutions/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/4b362c7febf6a7140eb6/maintainability)](https://codeclimate.com/github/FreakinWard/awarded-solutions/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/4b362c7febf6a7140eb6/test_coverage)](https://codeclimate.com/github/FreakinWard/awarded-solutions/test_coverage)
 [![Code Climate technical debt](https://img.shields.io/codeclimate/tech-debt/FreakinWard/awarded-solutions?color=F1CE0C&style=plastic)](https://codeclimate.com/github/FreakinWard/awarded-solutions/issues)
 
 # AwardedSolutions.com
