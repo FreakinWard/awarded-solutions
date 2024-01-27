@@ -7,7 +7,7 @@ export default defineConfig({
     cypressMochawesomeReporterReporterOptions: {
       reportDir: 'cypress/reports',
       charts: true,
-      reportPageTitle: 'E2E - nextjs-boilerplate',
+      reportPageTitle: 'E2E - awarded-solutions',
       embeddedScreenshots: true,
       inlineAssets: true,
     },
@@ -22,6 +22,7 @@ export default defineConfig({
     // We've imported your old cypress plugins here.
     // You may want to clean this up later by importing these.
     setupNodeEvents(on, config) {
+      // eslint-disable-next-line @typescript-eslint/no-var-requires
       return require('./cypress/plugins/index.js')(on, config);
     },
     // baseUrl: 'http://nextjs-template-dev-east-staging.azurewebsites.net',
