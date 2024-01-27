@@ -1,9 +1,8 @@
-[![Build Status](https://dev.azure.com/aaronward/nextjs-boilerplate/_apis/build/status%2Fnextjs-boilerplate-release?branchName=main)](https://dev.azure.com/aaronward/nextjs-boilerplate/_build/latest?definitionId=27&branchName=main)
-[![codecov](https://codecov.io/gh/FreakinWard/nextjs-boilerplate/branch/main/graph/badge.svg?token=XL8EYC1YZP)](https://codecov.io/gh/FreakinWard/nextjs-boilerplate)
-[![CodeFactor](https://www.codefactor.io/repository/github/freakinward/nextjs-boilerplate/badge)](https://www.codefactor.io/repository/github/freakinward/nextjs-boilerplate)
-[![Maintainability](https://api.codeclimate.com/v1/badges/25a53970d9a620abcaf8/maintainability)](https://codeclimate.com/github/FreakinWard/nextjs-boilerplate/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/25a53970d9a620abcaf8/test_coverage)](https://codeclimate.com/github/FreakinWard/nextjs-boilerplate/test_coverage)
-[![Code Climate technical debt](https://img.shields.io/codeclimate/tech-debt/FreakinWard/nextjs-boilerplate?color=F1CE0C&style=plastic)](https://codeclimate.com/github/FreakinWard/nextjs-boilerplate/issues)
+[![codecov](https://codecov.io/gh/FreakinWard/awarded-solutions/branch/main/graph/badge.svg?token=XL8EYC1YZP)](https://codecov.io/gh/FreakinWard/awarded-solutions)
+[![CodeFactor](https://www.codefactor.io/repository/github/freakinward/awarded-solutions/badge)](https://www.codefactor.io/repository/github/freakinward/awarded-solutions)
+[![Maintainability](https://api.codeclimate.com/v1/badges/25a53970d9a620abcaf8/maintainability)](https://codeclimate.com/github/FreakinWard/awarded-solutions/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/25a53970d9a620abcaf8/test_coverage)](https://codeclimate.com/github/FreakinWard/awarded-solutions/test_coverage)
+[![Code Climate technical debt](https://img.shields.io/codeclimate/tech-debt/FreakinWard/awarded-solutions?color=F1CE0C&style=plastic)](https://codeclimate.com/github/FreakinWard/awarded-solutions/issues)
 
 # NextJs Boilerplate
 
