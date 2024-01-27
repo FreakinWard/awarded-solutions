@@ -4,7 +4,7 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/25a53970d9a620abcaf8/test_coverage)](https://codeclimate.com/github/FreakinWard/awarded-solutions/test_coverage)
 [![Code Climate technical debt](https://img.shields.io/codeclimate/tech-debt/FreakinWard/awarded-solutions?color=F1CE0C&style=plastic)](https://codeclimate.com/github/FreakinWard/awarded-solutions/issues)
 
-# NextJs Boilerplate
+# AwardedSolutions.com
 
 The purpose of this repo is to accelerate startup time when creating a new [NextJs](https://nextjs.org/docs) app.
 
